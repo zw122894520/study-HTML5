@@ -1,2 +1,2 @@
-# study-HTML5
-HTML5学习
+# study
+学习
